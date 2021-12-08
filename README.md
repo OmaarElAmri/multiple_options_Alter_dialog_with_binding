@@ -1,1 +1,1 @@
-simple multiple options Alter dialog with Databinding library 
+simple multiple options Alter dialog with binding library 
